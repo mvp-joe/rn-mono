@@ -1,1 +1,3 @@
-export const greeting = "Hello, World!!"
+export const greeting = "Hello, Envo!"
+
+export * from './data'

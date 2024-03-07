@@ -4,8 +4,12 @@
   },
   "dependencies": {
     "@hono/node-server": "^1.8.2",
-		"@repo/lib": "*",
-    "hono": "^4.0.9"
+    "@repo/lib": "*",
+    "@supabase/supabase-js": "^2.39.7",
+    "hono": "^4.0.9",
+    "lib": "^5.1.0",
+    "mobile": "^1.0.0",
+    "web": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
